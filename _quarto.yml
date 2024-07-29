@@ -1,14 +1,22 @@
 project:
   type: website
-
+  
 website:
-  title: "p_site"
+  title: "Blog"
+  page-navigation: true
+  back-to-top-navigation: true
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - tech_articles.qmd
+      - literature.qmd
+      
+  page-footer: 
+    left: "Copyright 2024, Hitesh Kayastha" 
+    background: light
+  
 format:
   html:
     theme: cosmo
@@ -16,4 +24,5 @@ format:
     toc: true
 
 editor: visual
+
 

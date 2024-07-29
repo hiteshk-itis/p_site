@@ -1,0 +1,8 @@
+---
+title: Literature
+listing: 
+  contents: docs_literature
+  categories: true
+---
+
+These are the random musings, essays, poetry I stumbled upon.
