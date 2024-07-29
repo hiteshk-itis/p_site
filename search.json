@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "literature.html",
+    "href": "literature.html",
+    "title": "Literature",
+    "section": "",
+    "text": "These are the random musings, essays, poetry I stumbled upon.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nMusing 1\n\n\n\n\n\n\n\nMusings\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2024\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "tech_articles.html",
+    "href": "tech_articles.html",
+    "title": "Technical Articles",
+    "section": "",
+    "text": "This contains different technical articles.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nTech Article 1\n\n\n\n\n\n\n\nMachine Learning\n\n\n\n\nabout how the article will be shown on the page.\n\n\n\n\n\n\nJul 29, 2024\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "docs_tech_articles/article1.html",
+    "href": "docs_tech_articles/article1.html",
+    "title": "Tech Article 1",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "docs_literature/July29_2024.html",
+    "href": "docs_literature/July29_2024.html",
+    "title": "Musing 1",
+    "section": "",
+    "text": "This is random musings.\n\n\n\n Back to top"
+  }
+]
